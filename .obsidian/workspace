@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "c086b62d03d65d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2367359c4438a04",
+        "type": "split",
+        "children": [
+          {
+            "id": "e68e3117f1cb6124",
+            "type": "leaf",
+            "dimension": 41.14114114114114,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general_biology/chapter_10_cell_reproduction.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "f0893cecf2a4b9db",
+            "type": "leaf",
+            "dimension": 58.85885885885885,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general_biology/chapter_12_mendel_experiment_heredity.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ec142ff168585ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ece731f33ab831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c767a5fc52c38d7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e1d7d1938d079db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49cceec266aa1f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1188f2b0fbda3bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "893d973b469b190e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "general_biology/chapter_10_cell_reproduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88d06523657e03f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 637,
+    "collapsed": true
+  },
+  "active": "e68e3117f1cb6124",
+  "lastOpenFiles": [
+    "general_biology/chapter_10_cell_reproduction.md",
+    "Dear_diary/day_2.md",
+    "general_biology/chapter_12_mendel_experiment_heredity.md",
+    "Dear_diary/day_0.md",
+    "general_biology/final_exam_review.md",
+    "general_biology/chapter_11_meiosis_and_sexual_reproduction.md",
+    "meiosis_mitosis.png",
+    "Dear_diary/day_1.md",
+    "To_do_list/dec_08.md",
+    "general_physics/final_exam_review_physics.md"
+  ]
+}
